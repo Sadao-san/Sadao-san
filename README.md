@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Edson Sadao Pereira Toyoshima
+-->
+# Edson Sadao Pereira Toyoshima
 
 **Fullstack Developer** · São Paulo, Brazil
 
